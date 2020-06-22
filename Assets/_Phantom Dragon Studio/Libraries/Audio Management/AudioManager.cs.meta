@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5a52b9f694f4954458101028311bc69b
+timeCreated: 1508109969
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - buttonSFX: {fileID: 8300000, guid: 0a4c93d050ea06941b26f692c8ac3ea7, type: 3}
+  executionOrder: 300
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

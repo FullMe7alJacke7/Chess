@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbf2c51c-e232-44dc-8246-5786b63e4c16" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Management/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/PDS.AudioManagement.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_PlaySound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_GoBack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneUnloader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioSourceHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_LoadLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/PDS.LevelManagement.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/GUI/Slider Actions/SliderAction_PlaySound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/GUI/GameFiles.UI.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/GUI/Slider Actions/UpdateAudioVolumeValue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Editor/2019.4.0f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/GUI/OptionsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/_Scenes/05Team Select Menu.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/User Config/PlayerPrefsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/README.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneLoader_v2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Editor/ApplyToPrefabShortcut.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/LoadingProgressProcessor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Management/GameStateManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Editor/Tests/BasicTests.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Editor/ApplyToPrefabShortcut.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlaySoundOnClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Managers/PlayerPrefsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Managers/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Managers/GameStateManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Managers/Loader.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Managers/LoadScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Managers/UnloadScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Managers/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Managers/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Management/GameStateManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/LoadingProgress.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/GUI/ClickHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/LoadingProgressProcessor.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Management/PlaySoundOnClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Management/SoundManagerBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Management/AudioSourceHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Management/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/UpdateAudioVolumeValue.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Sound Management/PlaySoundOnClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Sound Management/AudioSourceHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Sound Management/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/GUI/UpdateAudioVolumeValue.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/GUI/OptionsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Management/PlayerPrefsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/User Config/PlayerPrefsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/GUI/PlaySoundOnClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/GUI/ButtonAction_LoadLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/ButtonAction_PlaySound.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/GUI/ButtonAction_GoBack.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/GUI/SliderAction_PlaySound.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/GUI/ButtonAction_PlaySound.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/LoadScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/UnloadScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_GoBack.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_PlaySound.cs" />
+        <option value="$PROJECT_DIR$/Assets/README.cs" />
+        <option value="$PROJECT_DIR$/Assets/README.txt" />
+        <option value="$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_LoadLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/GUI/Slider Actions/UpdateAudioVolumeValue.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioSourceHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Management/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneLoader_v2.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dbnpnWSSyHTYcv3zGEriA2tMyu" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbf2c51c-e232-44dc-8246-5786b63e4c16" name="Default Changelist" comment="" />
+      <created>1592702846302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592702846302</updated>
+      <workItem from="1592702848986" duration="3772000" />
+      <workItem from="1592713855514" duration="4614000" />
+      <workItem from="1592744131933" duration="13495000" />
+      <workItem from="1592779054917" duration="8868000" />
+      <workItem from="1592795747510" duration="691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="2090" y="100" width="1282" height="1235" key="dock-window-1" timestamp="1592771516315">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2090" y="100" width="1282" height="1235" key="dock-window-1/0.0.3440.1400@0.0.3440.1400" timestamp="1592771516315" />
+    <state x="1086" y="418" width="763" height="598" key="find.popup" timestamp="1592706488079">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1086" y="418" width="763" height="598" key="find.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1592706488079" />
+    <state x="1101" y="341" key="run.anything.popup" timestamp="1592741257540">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1101" y="341" key="run.anything.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1592741257540" />
+    <state x="1108" y="372" width="672" height="678" key="search.everywhere.popup" timestamp="1592783102167">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1108" y="372" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1592783102167" />
+  </component>
+</project>

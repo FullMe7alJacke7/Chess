@@ -1,0 +1,15 @@
+{
+    "name": "PDS.Users.Settings",
+    "references": [
+        "GUID:37f542f91504b7a45941f4d07cf1bfe1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

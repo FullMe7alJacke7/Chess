@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f835062e01fb8fd478b04fe76a2b7118
+timeCreated: 1507221480
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - levelManager: {fileID: 114690407617434474, guid: b0bd7d52c0719e44f8f6b798e75c4f23,
+      type: 2}
+  - soundManager: {fileID: 114291864904416708, guid: 7a88bc3a686757a46bbaaa4f1cf376a3,
+      type: 2}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+{
+    "name": "GameFiles",
+    "references": [
+        "GUID:46e789808d9cefe4087980ae6944623b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

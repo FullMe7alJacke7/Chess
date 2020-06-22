@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\casey\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\casey\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\casey\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Chess.-1730580091.00" t="ExcludeRecursive" />
+    <e p="C:\Users\casey\Documents\_GameDesign\_Unity\Projects\Chess" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="_Game" t="Include">
+          <e p="GameFiles.asmdef" t="Include" />
+          <e p="GUI" t="Include">
+            <e p="Button Actions" t="Include">
+              <e p="ButtonAction_GoBack.cs" t="Include" />
+              <e p="ButtonAction_LoadLevel.cs" t="Include" />
+              <e p="ButtonAction_PlaySound.cs" t="Include" />
+            </e>
+            <e p="GameFiles.UI.asmdef" t="Include" />
+            <e p="OptionsController.cs" t="Include" />
+            <e p="Slider Actions" t="Include">
+              <e p="SliderAction_PlaySound.cs" t="Include" />
+              <e p="UpdateAudioVolumeValue.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Management" t="Include">
+            <e p="GameManager.cs" t="Include" />
+            <e p="GameStateManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="_Phantom Dragon Studio" t="Include">
+          <e p="Editor" t="Include">
+            <e p="ApplyToPrefabShortcut.cs" t="Include" />
+            <e p="Editor Tests" t="Include">
+              <e p="BasicTests.cs" t="Include" />
+              <e p="Tests.Editor.asmdef" t="Include" />
+            </e>
+            <e p="PDS.Editor.asmdef" t="Include" />
+          </e>
+          <e p="Libraries" t="Include">
+            <e p="Audio Management" t="Include">
+              <e p="AudioManager.cs" t="Include" />
+              <e p="AudioSourceHandler.cs" t="Include" />
+              <e p="PDS.AudioManagement.asmdef" t="Include" />
+            </e>
+            <e p="Level Management" t="Include">
+              <e p="LevelManager.cs" t="Include" />
+              <e p="LoadingProgressProcessor.cs" t="Include" />
+              <e p="PDS.LevelManagement.asmdef" t="Include" />
+              <e p="SceneConfig.cs" t="Include" />
+              <e p="SceneLoader.cs" t="Include" />
+              <e p="SceneLoader_v2.cs" t="Include" />
+              <e p="SceneUnloader.cs" t="Include" />
+            </e>
+            <e p="User Config" t="Include">
+              <e p="PDS.Users.Settings.asmdef" t="Include" />
+              <e p="PlayerPrefsManager.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Runtime Tests" t="Include">
+            <e p="BasicTests.cs" t="Include" />
+            <e p="Runtime Tests.asmdef" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Chess.sln" t="IncludeFlat" />
+      <e p="GameFiles.csproj" t="IncludeRecursive" />
+      <e p="GameFiles.UI.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="PDS.AudioManagement.csproj" t="IncludeRecursive" />
+      <e p="PDS.LevelManagement.csproj" t="IncludeRecursive" />
+      <e p="PDS.Users.Settings.csproj" t="IncludeRecursive" />
+      <e p="PDS_Editor.csproj" t="IncludeRecursive" />
+      <e p="RuntimeTests.csproj" t="IncludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Tests.Editor.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

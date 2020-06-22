@@ -1,0 +1,18 @@
+{
+    "name": "GameFiles.UI",
+    "references": [
+        "GUID:1168f40173bcae74598975a430431144",
+        "GUID:37f542f91504b7a45941f4d07cf1bfe1",
+        "GUID:b649155a62beddf4a87bab2560b89b64",
+        "GUID:6751d2d8e4645dc43b2dff4d8d268858"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
