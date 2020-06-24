@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 namespace PhantomDragonStudio.LevelManagement
 {
-    public class SceneUnloader
+    public class SceneUnload
     {
         public float Progress => aSync.progress;
         

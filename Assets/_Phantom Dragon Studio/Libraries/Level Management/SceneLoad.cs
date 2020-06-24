@@ -9,7 +9,6 @@ namespace PhantomDragonStudio.LevelManagement
     public class SceneLoader
     {
         public float Progress => loadingAsync.progress;
-        
         private AsyncOperation loadingAsync;
 
         public IEnumerator Load(int sceneToLoad)
