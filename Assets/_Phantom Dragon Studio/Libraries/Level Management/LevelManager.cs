@@ -15,8 +15,8 @@ namespace PhantomDragonStudio.LevelManagement
         
         
         public static LevelManager instance = null;
-        private SceneLoader _sceneLoader;
-        private SceneUnloader _sceneUnloader;
+        private SceneLoad _sceneLoad;
+        private SceneUnload _sceneUnload;
         private int lastSceneVisited;
 
         public void Awake()
@@ -26,8 +26,8 @@ namespace PhantomDragonStudio.LevelManagement
             else
                 instance = this;
 
-            _sceneLoader = new SceneLoader();
-            _sceneUnloader = new SceneUnloader();
+            _sceneLoad = new SceneLoad();
+            _sceneUnload = new SceneUnload();
             
             if(autoLoad)
                 StartCoroutine(DelayedAutoLoad(mainMenuIndex, splashScreenDelay));
@@ -43,8 +43,8 @@ namespace PhantomDragonStudio.LevelManagement
         public void LoadLevel(int requestedSceneIndex)
         {
             lastSceneVisited = SceneManager.GetActiveScene().buildIndex;
-            StartCoroutine(_sceneLoader.Load(requestedSceneIndex));           
-            StartCoroutine(_sceneUnloader.Unload(lastSceneVisited));
+            StartCoroutine(_sceneLoad.Load(requestedSceneIndex));           
+            StartCoroutine(_sceneUnload.Unload(lastSceneVisited));
         }
 
         public void LoadPreviousScene()

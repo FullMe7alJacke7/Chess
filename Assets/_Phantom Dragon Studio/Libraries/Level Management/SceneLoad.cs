@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 namespace PhantomDragonStudio.LevelManagement
 {
-    public class SceneLoader
+    public class SceneLoad
     {
         public float Progress => loadingAsync.progress;
         private AsyncOperation loadingAsync;

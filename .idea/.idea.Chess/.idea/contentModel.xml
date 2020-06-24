@@ -37,24 +37,33 @@
           </e>
           <e p="Libraries" t="Include">
             <e p="Audio Management" t="Include">
+              <e p="AudioCollection.cs" t="Include" />
               <e p="AudioManager.cs" t="Include" />
               <e p="AudioSourceHandler.cs" t="Include" />
               <e p="PDS.AudioManagement.asmdef" t="Include" />
             </e>
+            <e p="Finite State Machines" t="Include">
+              <e p="IState.cs" t="Include" />
+              <e p="StateMachine.cs" t="Include" />
+            </e>
             <e p="Level Management" t="Include">
+              <e p="Jason's Scripts" t="Include">
+                <e p="JasonsScripts.asmdef" t="Include" />
+                <e p="SceneLoader.cs" t="Include" />
+              </e>
               <e p="LevelManager.cs" t="Include" />
               <e p="LoadingProgressProcessor.cs" t="Include" />
               <e p="PDS.LevelManagement.asmdef" t="Include" />
               <e p="SceneConfig.cs" t="Include" />
-              <e p="SceneLoader.cs" t="Include" />
-              <e p="SceneLoader_v2.cs" t="Include" />
-              <e p="SceneUnloader.cs" t="Include" />
+              <e p="SceneLoad.cs" t="Include" />
+              <e p="SceneUnload.cs" t="Include" />
             </e>
             <e p="User Config" t="Include">
               <e p="PDS.Users.Settings.asmdef" t="Include" />
               <e p="PlayerPrefsManager.cs" t="Include" />
             </e>
           </e>
+          <e p="PDS.asmdef" t="Include" />
           <e p="Runtime Tests" t="Include">
             <e p="BasicTests.cs" t="Include" />
             <e p="Runtime Tests.asmdef" t="Include" />
@@ -64,9 +73,11 @@
       <e p="Chess.sln" t="IncludeFlat" />
       <e p="GameFiles.csproj" t="IncludeRecursive" />
       <e p="GameFiles.UI.csproj" t="IncludeRecursive" />
+      <e p="JasonsScripts.csproj" t="IncludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
       <e p="PDS.AudioManagement.csproj" t="IncludeRecursive" />
+      <e p="PDS.csproj" t="IncludeRecursive" />
       <e p="PDS.LevelManagement.csproj" t="IncludeRecursive" />
       <e p="PDS.Users.Settings.csproj" t="IncludeRecursive" />
       <e p="PDS_Editor.csproj" t="IncludeRecursive" />

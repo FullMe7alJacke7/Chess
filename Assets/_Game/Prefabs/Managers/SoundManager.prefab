@@ -45,15 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a52b9f694f4954458101028311bc69b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  musicTrack:
-  - {fileID: 8300000, guid: 3e073342106edb2418fd66d81f6586d2, type: 3}
-  - {fileID: 8300000, guid: e5ade15bc8668e749963fe309a45159a, type: 3}
-  - {fileID: 8300000, guid: ec349bf3f1f35bd48856969f259ddfb5, type: 3}
-  - {fileID: 8300000, guid: 427a1cdaca3a45d43ae82abb29aad76d, type: 3}
-  - {fileID: 8300000, guid: 3d1963bd7af41b548897fe35a825ed62, type: 3}
-  buttonSFX: {fileID: 8300000, guid: 0a4c93d050ea06941b26f692c8ac3ea7, type: 3}
-  musicSource: {fileID: 82573432242723542}
-  sfxSource: {fileID: 82290787835464076}
+  musicCollection: {fileID: 11400000, guid: 13d725dbb90facd4ca0d44875230f598, type: 2}
 --- !u!82 &82573432242723542
 AudioSource:
   m_ObjectHideFlags: 0

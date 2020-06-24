@@ -17,6 +17,6 @@ public class SliderAction_PlaySound : MonoBehaviour
 
     private void SliderMoved(float value)
     {
-        AudioManager.instance.PlayClickedSound();
+        // AudioManager.instance.PlayClickedSound();
     }
 }

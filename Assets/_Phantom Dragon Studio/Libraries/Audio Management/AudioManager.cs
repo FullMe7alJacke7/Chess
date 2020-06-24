@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.Serialization;
 
 namespace PhantomDragonStudio.AudioManagement
 {
@@ -10,8 +11,7 @@ namespace PhantomDragonStudio.AudioManagement
         private AudioSource[] audioSources;
 
         //TODO Seperate these into their own ScriptableObject collections
-        public AudioClip[] musicTrack;
-        public AudioClip buttonSFX;
+        [SerializeField] private AudioCollection musicCollection;
 
         public float MusicVolume
         {
@@ -37,18 +37,19 @@ namespace PhantomDragonStudio.AudioManagement
             PlayMusic(0);
         }
 
-        public void PlayMusic(int level)
+        public void PlayMusic(int indexToPlay)
         {
-            Debug.Log("Playing this level music track: " + musicTrack[level]);
-            if (!musicTrack[level]) return;
-            _audioSourceHandler.MusicSource.clip = musicTrack[level];
+            Debug.Log("Playing this level music track: " + musicCollection);
+            if (!musicCollection) return;
+            _audioSourceHandler.MusicSource.clip = musicCollection.GetRandomClip();
             _audioSourceHandler.MusicSource.loop = true;
             _audioSourceHandler.MusicSource.Play();
         }
 
-        public void PlayClickedSound()
+        public void PlayEffectsClip(AudioClip clipToPlay)
         {
-            _audioSourceHandler.SpecialEffectsSource.clip = buttonSFX;
+            if (_audioSourceHandler == null) return;
+            _audioSourceHandler.SpecialEffectsSource.clip = clipToPlay;
             _audioSourceHandler.SpecialEffectsSource.loop = false;
             _audioSourceHandler.SpecialEffectsSource.Play();
         }
