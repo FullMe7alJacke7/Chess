@@ -1,31 +1,39 @@
-﻿using PhantomDragonStudio.AudioManagement;
-using UnityEngine;
-using UnityEngine.Serialization;
-using UnityEngine.UI;
-
-public class ButtonAction_PlaySound : MonoBehaviour
+﻿namespace App.UI
 {
-    [SerializeField] private AudioCollection audioClipCollection;
-    private AudioSourceHandler _audioSourceHandler;
+    using PhantomDragonStudio.AudioManagement;
+    using UnityEngine;
+    using UnityEngine.UI;
 
-    private void Awake()
+    public class ButtonAction_PlaySound : MonoBehaviour
     {
-        SetupButton();
+        [SerializeField] private AudioCollection audioClipCollection;
+        private AudioSourceHandler _audioSourceHandler;
+
+        private void Awake()
+        {
+            SetupButton();
+        }
+
+        private void SetupButton()
+        {
+            Debug.Log("Setup....");
+            Button button = transform.GetComponent<Button>();
+            button.onClick.AddListener(PlayClickedSound);
+            _audioSourceHandler = new AudioSourceHandler(GetComponents<AudioSource>());
+        }
+
+        private void PlayClickedSound()
+        {
+            if (audioClipCollection == null)
+            {
+                Debug.Log("NULL HANDLER");
+                return;
+            }
+            Debug.Log(_audioSourceHandler.ToString());
+            _audioSourceHandler.SpecialEffectsSource.clip = audioClipCollection.GetRandomClip();
+            _audioSourceHandler.SpecialEffectsSource.loop = false;
+            _audioSourceHandler.SpecialEffectsSource.Play();
+        }
     }
 
-    private void SetupButton()
-    {
-        Button button = transform.GetComponent<Button>();
-        button.onClick.AddListener(PlayClickedSound);
-        _audioSourceHandler = new AudioSourceHandler(GetComponents<AudioSource>());
-    }
-
-    private void PlayClickedSound()
-    {
-        Debug.Log("Playing this level music track: " + audioClipCollection);
-        if (!audioClipCollection) return;
-        _audioSourceHandler.MusicSource.clip = audioClipCollection.GetRandomClip();
-        _audioSourceHandler.MusicSource.loop = true;
-        _audioSourceHandler.MusicSource.Play();
-    }
 }

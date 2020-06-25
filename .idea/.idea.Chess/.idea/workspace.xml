@@ -2,30 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf2c51c-e232-44dc-8246-5786b63e4c16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/Jason's Scripts/JasonsScripts.asmdef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/Jason's Scripts/JasonsScripts.asmdef.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/Jason's Scripts/SceneLoader.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_PlaySound.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_PlaySound.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Game/GUI/Slider Actions/SliderAction_PlaySound.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/GUI/Slider Actions/SliderAction_PlaySound.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/Prefabs/Managers/SoundManager.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Prefabs/Managers/SoundManager.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scenes/00Splash Screen.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scenes/00Splash Screen.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Prefabs/ExitButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Prefabs/ExitButton.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scenes/01Main Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scenes/01Main Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scenes/02Extras Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scenes/02Extras Menu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scenes/03Options Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scenes/03Options Menu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scenes/04Game Type Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scenes/04Game Type Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scenes/05Team Select Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scenes/05Team Select Menu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioSourceHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioSourceHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/LevelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/LevelManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneLoad.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneLoader.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneLoad.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneLoader_v2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneLoader_v2.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/Jason's Scripts/SceneLoader.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneUnloader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneUnload.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneUnloader.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneUnload.cs.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,10 +101,10 @@
         <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/Jason's Scripts/JasonsScripts.asmdef" />
         <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/Jason's Scripts/SceneLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioSourceHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioCollection.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/GUI/Slider Actions/SliderAction_PlaySound.cs" />
         <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioManager.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_PlaySound.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioCollection.cs" />
       </list>
     </option>
   </component>
@@ -179,7 +164,7 @@
       <workItem from="1592779054917" duration="8868000" />
       <workItem from="1592795747510" duration="691000" />
       <workItem from="1592864345757" duration="1553000" />
-      <workItem from="1592904641286" duration="11064000" />
+      <workItem from="1592904641286" duration="17016000" />
     </task>
     <servers />
   </component>

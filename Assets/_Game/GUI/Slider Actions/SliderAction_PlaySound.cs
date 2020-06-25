@@ -4,6 +4,9 @@ using UnityEngine.UI;
 
 public class SliderAction_PlaySound : MonoBehaviour
 {
+    [SerializeField] private AudioCollection audioClipCollection;
+    private AudioSourceHandler _audioSourceHandler;
+
     private void Awake()
     {
         SetupButton();
@@ -12,11 +15,15 @@ public class SliderAction_PlaySound : MonoBehaviour
     private void SetupButton()
     {
         Slider slider = transform.GetComponent<Slider>();
-        slider.onValueChanged.AddListener(SliderMoved);
+        slider.onValueChanged.AddListener(PlaySound);
+        _audioSourceHandler = new AudioSourceHandler(GetComponents<AudioSource>());
     }
 
-    private void SliderMoved(float value)
+    private void PlaySound(float val)
     {
-        // AudioManager.instance.PlayClickedSound();
+        if (!audioClipCollection) return;
+        _audioSourceHandler.SpecialEffectsSource.clip = audioClipCollection.GetRandomClip();
+        _audioSourceHandler.SpecialEffectsSource.loop = true;
+        _audioSourceHandler.SpecialEffectsSource.Play();
     }
 }

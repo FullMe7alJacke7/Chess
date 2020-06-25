@@ -45,13 +45,5 @@ namespace PhantomDragonStudio.AudioManagement
             _audioSourceHandler.MusicSource.loop = true;
             _audioSourceHandler.MusicSource.Play();
         }
-
-        public void PlayEffectsClip(AudioClip clipToPlay)
-        {
-            if (_audioSourceHandler == null) return;
-            _audioSourceHandler.SpecialEffectsSource.clip = clipToPlay;
-            _audioSourceHandler.SpecialEffectsSource.loop = false;
-            _audioSourceHandler.SpecialEffectsSource.Play();
-        }
     }
 }
