@@ -1,6 +1,9 @@
-﻿public interface IState
+﻿namespace PhantomDragonStudio.FSM
 {
-    void Enter();
-    void Execute();
-    void Exit();
+    public interface IState
+    {
+        void Enter();
+        void Execute();
+        void Exit();
+    }
 }

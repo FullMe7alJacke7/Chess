@@ -64,10 +64,10 @@
             </e>
           </e>
           <e p="PDS.asmdef" t="Include" />
-          <e p="Runtime Tests" t="Include">
-            <e p="BasicTests.cs" t="Include" />
-            <e p="Runtime Tests.asmdef" t="Include" />
-          </e>
+        </e>
+        <e p="Runtime Tests" t="Include">
+          <e p="BasicTest.cs" t="Include" />
+          <e p="Runtime Tests.asmdef" t="Include" />
         </e>
       </e>
       <e p="Chess.sln" t="IncludeFlat" />

@@ -2,15 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf2c51c-e232-44dc-8246-5786b63e4c16" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_PlaySound.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_PlaySound.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/GUI/GameFiles.UI.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/GUI/GameFiles.UI.asmdef" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Game/GUI/Slider Actions/SliderAction_PlaySound.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/GUI/Slider Actions/SliderAction_PlaySound.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/Prefabs/ExitButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Prefabs/ExitButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scenes/01Main Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scenes/01Main Menu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scenes/03Options Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scenes/03Options Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scenes/04Game Type Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scenes/04Game Type Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Editor/Editor Tests/Tests.Editor.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Editor/Editor Tests/Tests.Editor.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Editor/PDS.Editor.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Editor/PDS.Editor.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioCollection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioCollection.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/PDS.AudioManagement.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/PDS.AudioManagement.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Finite State Machines/IState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Finite State Machines/IState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Finite State Machines/StateMachine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Finite State Machines/StateMachine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/Jason's Scripts/JasonsScripts.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/Jason's Scripts/JasonsScripts.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/PDS.LevelManagement.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/PDS.LevelManagement.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/User Config/PDS.Users.Settings.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/User Config/PDS.Users.Settings.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Runtime Tests.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Runtime Tests/BasicTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Runtime Tests/BasicTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Runtime Tests/Runtime Tests.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Runtime Tests/Runtime Tests.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/QuickSearch.settings" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/QuickSearch.settings" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +39,14 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Management/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/PDS.AudioManagement.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Editor/Editor Tests/BasicTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_PlaySound.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneLoad.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_GoBack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/SceneUnload.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioSourceHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_LoadLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/_Scenes/03Options Menu.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/_Scenes/00Splash Screen.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/GUI/GameFiles.UI.asmdef" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Unity/Editor/2019.4.0f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
@@ -54,9 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/_Game/Managers/PlayerPrefsManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Game/Managers/SoundManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Game/Managers/GameStateManager.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Managers/Loader.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Managers/LoadScene.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Managers/UnloadScene.cs" />
@@ -101,10 +116,13 @@
         <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/Jason's Scripts/JasonsScripts.asmdef" />
         <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Level Management/Jason's Scripts/SceneLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioSourceHandler.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioCollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_PlaySound.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/GUI/Slider Actions/SliderAction_PlaySound.cs" />
         <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Game/GUI/Button Actions/ButtonAction_PlaySound.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Audio Management/AudioCollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Finite State Machines/StateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Libraries/Finite State Machines/IState.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Phantom Dragon Studio/Editor/Runtime Tests/BasicTests.cs" />
       </list>
     </option>
   </component>
@@ -165,6 +183,7 @@
       <workItem from="1592795747510" duration="691000" />
       <workItem from="1592864345757" duration="1553000" />
       <workItem from="1592904641286" duration="17016000" />
+      <workItem from="1593132248205" duration="1540000" />
     </task>
     <servers />
   </component>
@@ -178,7 +197,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

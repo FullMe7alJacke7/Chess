@@ -23,7 +23,7 @@ public class SliderAction_PlaySound : MonoBehaviour
     {
         if (!audioClipCollection) return;
         _audioSourceHandler.SpecialEffectsSource.clip = audioClipCollection.GetRandomClip();
-        _audioSourceHandler.SpecialEffectsSource.loop = true;
+        _audioSourceHandler.SpecialEffectsSource.loop = false;
         _audioSourceHandler.SpecialEffectsSource.Play();
     }
 }

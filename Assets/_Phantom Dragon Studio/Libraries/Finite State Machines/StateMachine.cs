@@ -1,22 +1,22 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class StateMachine
+﻿namespace PhantomDragonStudio.FSM
 {
-    IState currentState;
 
-    public void ChangeState(IState newState)
+    public class StateMachine
     {
-        if (currentState != null)
-            currentState.Exit();
+        IState currentState;
 
-        currentState = newState;
-        currentState.Enter();
-    }
+        public void ChangeState(IState newState)
+        {
+            if (currentState != null)
+                currentState.Exit();
 
-    public void Update()
-    {
-        if (currentState != null) currentState.Execute();
+            currentState = newState;
+            currentState.Enter();
+        }
+
+        public void Update()
+        {
+            if (currentState != null) currentState.Execute();
+        }
     }
 }
