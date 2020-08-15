@@ -14,7 +14,7 @@ namespace PhantomDragonStudio.LevelManagement
             if (SceneManager.GetActiveScene().buildIndex == sceneToUnload && sceneToUnload != 0)
                 aSync = SceneManager.UnloadSceneAsync(sceneToUnload);
             else
-                Debug.Log("<color=YELLOW> Initial Persistent cannot be unloaded, only disabled. Skipping Unload Process. </color>");
+                Debug.Log("<color=YELLOW> Persistent Scene cannot be unloaded, only disabled. Skipping Unload Process. </color>");
             yield return aSync;
         }
     }

@@ -51,7 +51,5 @@ namespace PhantomDragonStudio.LevelManagement
         {
             LoadLevel(lastSceneVisited);
         }
-
-        //TODO Add a way (C# event?) something can be triggered when a scene has finished loading, WITHOUT depending on it.
     }
 }
